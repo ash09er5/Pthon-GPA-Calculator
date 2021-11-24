@@ -1,1 +1,1 @@
-# Pthon-GPA-Calculator
+# Python-GPA-Calculator
